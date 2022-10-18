@@ -20,3 +20,5 @@ Exploratory data analysis and visualisation on Wine dataset.
 
 5.2. Confusion matrix summary:   
 <img width="618" alt="ml5 2" src="https://user-images.githubusercontent.com/88428142/196225182-d5bd9735-ab1e-4e80-8915-7350b56b10d5.png">
+
+Do run the the .ipynb file in Jupyter Notebook. 
